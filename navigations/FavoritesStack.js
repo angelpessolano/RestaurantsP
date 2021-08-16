@@ -1,5 +1,5 @@
 import React from 'react'
-import Favorites from '../screens/Favorites'
+import Favorites from '../screens/favorites/Favorites'
 import { createStackNavigator} from '@react-navigation/stack'
   const Stack = createStackNavigator()
 

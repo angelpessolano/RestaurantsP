@@ -1,5 +1,5 @@
 import React from 'react'
-import Search from '../screens/Search'
+import Search from '../screens/search/Search'
 import { createStackNavigator} from '@react-navigation/stack'
 
 
